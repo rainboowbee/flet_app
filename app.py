@@ -1,5 +1,5 @@
 from flet import *
-import parser
+import example
 
 path = ''
 save_path = ''
@@ -8,7 +8,7 @@ def main(page: Page):
 
     def parse_xml(e):
         global path
-        players_df, tournament_df = parser.parse_xml_to_dataframe(path)
+        players_df, tournament_df = example.parse_xml_to_dataframe(path)
 
         players_rows = []
         for _, row in players_df.iterrows():
@@ -87,7 +87,7 @@ def main(page: Page):
         save_file_path.value = e.path + '.xlsx' if e.path else "Cancelled!"
 
         save_path = save_file_path.value
-        parser.parse_xml_and_save_to_excel(path, save_path)
+        example.parse_xml_and_save_to_excel(path, save_path)
         print('Успешно сохранено в ' + save_path)
 
 
