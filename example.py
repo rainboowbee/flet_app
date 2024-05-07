@@ -5,17 +5,29 @@ def parse_xml_to_dataframe(xml_file_path):
     # Загружаем и разбираем XML файл
     tree = ET.parse(xml_file_path)
     root = tree.getroot()
+
+    players_id_data = []
+
+    for player in root.findall('./Tournament/Players/Player'):
+        player_id = player.get('id')
+        players_id_data.append(player_id)
     
+    print(players_id_data)
+
+
     # Парсим информацию о игроках
     players_data = []
     for idx, player in enumerate(root.findall('.//Player')):
+        player_unique_id = player.attrib['id']
         name = player.find('name').text if player.find('name') is not None else None
         location = player.find('location').text if player.find('location') is not None else None
         birthdate = player.find('birthdate').text if player.find('birthdate') is not None else None
         rating = player.find('rating').text if player.find('rating') is not None else None
 
+        print(player_unique_id, name, location, birthdate, rating)
+
         # Проверяем, есть ли необходимая информация перед добавлением в список
-        if name and location and birthdate and rating:
+        if name and location and birthdate and rating and player_unique_id in players_id_data:
             player_info = {
                 '№': idx + 1,  # Индексация начинается с 1
                 'ФИО': name,
@@ -51,17 +63,24 @@ def parse_xml_and_save_to_excel(xml_file_path, excel_file_path):
     # Загружаем и разбираем XML файл
     tree = ET.parse(xml_file_path)
     root = tree.getroot()
+
+    players_id_data = []
+
+    for player in root.findall('./Tournament/Players/Player'):
+        player_id = player.get('id')
+        players_id_data.append(player_id)
     
     # Парсим информацию о игроках
     players_data = []
     for idx, player in enumerate(root.findall('.//Player')):
+        player_unique_id = player.attrib['id']
         name = player.find('name').text if player.find('name') is not None else None
         location = player.find('location').text if player.find('location') is not None else None
         birthdate = player.find('birthdate').text if player.find('birthdate') is not None else None
         rating = player.find('rating').text if player.find('rating') is not None else None
 
         # Проверяем, есть ли необходимая информация перед добавлением в список
-        if name and location and birthdate and rating:
+        if name and location and birthdate and rating and player_unique_id in players_id_data:
             player_info = {
                 '№': idx + 1,  # Индексация начинается с 1
                 'ФИО': name,
@@ -115,3 +134,4 @@ def parse_xml_and_save_to_excel(xml_file_path, excel_file_path):
 
     return players_df, tournament_df
 
+parse_xml_and_save_to_excel('примерфайла.xml', 'example.xlsx')

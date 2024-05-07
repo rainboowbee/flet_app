@@ -94,6 +94,12 @@ def main(page: Page):
     save_file_dialog = FilePicker(on_result=save_file_result)
     save_file_path = Text()
 
+    def change_theme(e):
+        if page.theme_mode == ThemeMode.LIGHT:
+            page.theme_mode = ThemeMode.DARK
+        else:
+            page.theme_mode = ThemeMode.LIGHT
+
 
     # hide all dialogs in overlay
     page.overlay.extend([pick_files_dialog, save_file_dialog])
@@ -116,6 +122,10 @@ def main(page: Page):
                             icon=icons.SAVE,
                             on_click=lambda _: save_file_dialog.save_file(),
                         ),
+                        IconButton(
+                            icon=icons.AUTO_MODE,
+                            on_click=change_theme
+                        )
                     ]
                 )
             ],
