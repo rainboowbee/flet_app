@@ -71,7 +71,13 @@ def parse_xml_and_save_to_excel(xml_file_path, excel_file_path):
         players_id_data.append(player_id)
     
     # Парсим информацию о игроках
-    players_data = []
+    # Список для хранения данных
+    combined_players_data = []
+
+    # Словарь для хранения дополнительной информации о игроках из второго цикла
+    additional_player_info = {}
+
+    # Первый цикл
     for idx, player in enumerate(root.findall('.//Player')):
         player_unique_id = player.attrib['id']
         name = player.find('name').text if player.find('name') is not None else None
@@ -83,13 +89,43 @@ def parse_xml_and_save_to_excel(xml_file_path, excel_file_path):
         if name and location and birthdate and rating and player_unique_id in players_id_data:
             player_info = {
                 '№': idx + 1,  # Индексация начинается с 1
-                'ФИО': name,
-                'Город': location,
-                'Год рождения': birthdate,
-                'рейтинг': rating
+                'name': name,
+                'location': location,
+                'birthdate': birthdate,
+                'rating': rating
             }
-            players_data.append(player_info)
-    players_df = pd.DataFrame(players_data)
+            combined_players_data.append(player_info)
+
+    # Второй цикл
+    players = root.find('.//Players')
+    if players is not None:
+        for player in players.findall('Player'):
+            player_unique_id = player.attrib.get('id')
+            coach = player.get('coach')
+            rating = player.get('Rating')
+            fee = player.get('fee')
+            info2 = player.get('info2')
+            
+            # Если уникальный идентификатор игрока есть, сохраняем дополнительную информацию
+            if player_unique_id:
+                additional_player_info[player_unique_id] = {
+                    'coach': coach,
+                    'rating': rating,
+                    'fee': fee,
+                    'info2': info2
+                }
+
+    # Объединение данных
+    for player_data in combined_players_data:
+        player_id = player_data['player_unique_id']  # Получаем ID игрока из словаря
+        additional_info = additional_player_info.get(player_id, {})
+        player_data.update(additional_info)
+
+
+
+    # Создание DataFrame из объединенных данных
+    players_df = pd.DataFrame(combined_players_data)
+    
     
     # Парсим информацию о турнире
     tournament_data = []
@@ -134,4 +170,75 @@ def parse_xml_and_save_to_excel(xml_file_path, excel_file_path):
 
     return players_df, tournament_df
 
+
 parse_xml_and_save_to_excel('примерфайла.xml', 'example.xlsx')
+
+'''# Извлечение данных
+players = root.find('.//Players')
+if players is not None:
+    for player in players.findall('Player'):
+        coach = player.get('coach')
+        rating = player.get('Rating')
+        fee = player.get('fee')
+        info2 = player.get('info2')
+        print(f"Rating: {rating}, Coach: {coach}, Fee: {fee}, Info2: {info2}")
+else:
+    print("Элемент <Players> не найден в XML.")'''
+
+
+
+'''import pandas as pd
+
+# Список для хранения данных
+combined_players_data = []
+
+# Словарь для хранения дополнительной информации о игроках из второго цикла
+additional_player_info = {}
+
+# Первый цикл
+for idx, player in enumerate(root.findall('.//Player')):
+    player_unique_id = player.attrib['id']
+    name = player.find('name').text if player.find('name') is not None else None
+    location = player.find('location').text if player.find('location') is not None else None
+    birthdate = player.find('birthdate').text if player.find('birthdate') is not None else None
+    rating = player.find('rating').text if player.find('rating') is not None else None
+
+    # Проверяем, есть ли необходимая информация перед добавлением в список
+    if name and location and birthdate and rating and player_unique_id:
+        player_info = {
+            'player_unique_id': player_unique_id,
+            'name': name,
+            'location': location,
+            'birthdate': birthdate,
+            'rating': rating
+        }
+        combined_players_data.append(player_info)
+
+# Второй цикл
+players = root.find('.//Players')
+if players is not None:
+    for player in players.findall('Player'):
+        player_unique_id = player.attrib.get('id')
+        coach = player.get('coach')
+        rating = player.get('Rating')
+        fee = player.get('fee')
+        info2 = player.get('info2')
+        
+        # Если уникальный идентификатор игрока есть, сохраняем дополнительную информацию
+        if player_unique_id:
+            additional_player_info[player_unique_id] = {
+                'coach': coach,
+                'rating': rating,
+                'fee': fee,
+                'info2': info2
+            }
+
+# Объединение данных
+for player_data in combined_players_data:
+    player_unique_id = player_data['player_unique_id']
+    additional_info = additional_player_info.get(player_unique_id, {})
+    player_data.update(additional_info)
+
+# Создание DataFrame из объединенных данных
+players_df = pd.DataFrame(combined_players_data)
+print(players_df)'''

@@ -1,0 +1,2745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DBExport ver="v 1.4.2.1">
+<NewPlayers>
+<Player bRequired="true" id="446f635">
+<name>Певцов Денис Витальевич</name>
+<shortname>Певцов Д. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ростов</location>
+<birthdate>2004</birthdate>
+<sex>М</sex>
+<rating>142.49</rating>
+<deltaR>0.00</deltaR>
+<place>49857</place>
+<stats>6;19;17</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="545702e">
+<name>Фомина Ада Александровна</name>
+<shortname>Фомина А. А.</shortname>
+<country>Россия</country>
+<region>Архангельская обл.</region>
+<location>Пригодино</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>111.86</rating>
+<deltaR>0.00</deltaR>
+<place>55715</place>
+<stats>3;7;4</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="3d12b22">
+<name>Капустин Алексей Александрович</name>
+<shortname>Капустин А. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Рыбинск</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>98.98</rating>
+<deltaR>0.00</deltaR>
+<place>64051</place>
+<stats>1;2;1</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="3d2ee9d">
+<name>Кислякова Ксения Александровна</name>
+<shortname>Кислякова К. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ростов</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>93.73</rating>
+<deltaR>0.00</deltaR>
+<place>67617</place>
+<stats>3;2;11</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="50f7609">
+<name>Сизов Кирилл Дмитриевич</name>
+<shortname>Сизов К. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Любим</location>
+<birthdate>2002</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="38f02b1">
+<name>Колесов Кирилл Александрович</name>
+<shortname>Колесов К. А.</shortname>
+<country>Россия</country>
+<region>Ивановская обл.</region>
+<location>Иваново</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="7e99932">
+<name>Алешков Андрей Александрович</name>
+<shortname>Алешков А. А.</shortname>
+<country>Россия</country>
+<region>Костромская обл.</region>
+<location>Кострома</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="6f6ef58">
+<name>Савинова Анна Дмитриевна</name>
+<shortname>Савинова А. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>61826</place>
+<stats>1;2;1</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="7bead56">
+<name>Цеплиенкова Елизавета Викторовна</name>
+<shortname>Цеплиенкова Е. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>61826</place>
+<stats>2;3;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="5a428f2">
+<name>Павлова Евгения Николаевна</name>
+<shortname>Павлова Е. Н.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>98.00</rating>
+<deltaR>0.00</deltaR>
+<place>65091</place>
+<stats>1;0;3</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="121e9b6">
+<name>Серова Екатерина Сергеевна</name>
+<shortname>Серова Е. С.</shortname>
+<country>Россия</country>
+<region>Костромская обл.</region>
+<location>Солигалич</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>61826</place>
+<stats>2;0;3</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="205c196">
+<name>Кузьмин Андрей Леонидович</name>
+<shortname>Кузьмин А. Л.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2002</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="635d796">
+<name>Златоустовский Дмитрий Владимирович</name>
+<shortname>Златоустовский Д. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="465a90d">
+<name>Белов Михаил Денисович</name>
+<shortname>Белов М. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Рыбинск</location>
+<birthdate>2004</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="58fd52e">
+<name>Затеев Дмитрий Александрович</name>
+<shortname>Затеев Д. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярослаквль</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="52f14c6">
+<name>Оралков Михаил Сергеевич</name>
+<shortname>Оралков М. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2002</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="353c3ac">
+<name>Неронова Наталья Сергеевна</name>
+<shortname>Неронова Н. С.</shortname>
+<country>Россия</country>
+<region>Архангельская обл.</region>
+<location>Северо-Двинск</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>61826</place>
+<stats>1;0;3</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="6f1df0f">
+<name>Быстров Владислав Алексеевич</name>
+<shortname>Быстров В. А.</shortname>
+<country>Россия</country>
+<region>Костромская обл.</region>
+<location>Островское</location>
+<birthdate>2004</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>61826</place>
+<stats>2;0;3</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="5951978">
+<name>Белов Алексей Вячеславович</name>
+<shortname>Белов А. В.</shortname>
+<country>Россия</country>
+<region>Владимирская обл.</region>
+<location>Муром</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bRequired="true" id="475f0c2">
+<name>Колосков Павел Максимович</name>
+<shortname>Колосков П. М.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2005</birthdate>
+<sex>М</sex>
+<rating>101.00</rating>
+<deltaR>0.00</deltaR>
+<place>61004</place>
+<stats>1;1;2</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" bRequired="true" id="299581e">
+<name>Макаров Николай Сергеевич</name>
+<shortname>Макаров Н. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2003</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="6d40ba8">
+<name>Краснобаев Сергей Павлович</name>
+<shortname>Краснобаев С. П.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2003</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="56c12fe">
+<name>Поройкова Елена Вячеславовна</name>
+<shortname>Поройкова Е. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1981</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="5842d60">
+<name>Гладкий Александр Леонидович</name>
+<shortname>Гладкий А. Л.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1986</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="67c2d66">
+<name>Медведева Дарья Николаевна</name>
+<shortname>Медведева Д. Н.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2002</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="53044cd">
+<name>Чикина Анна Владимировна</name>
+<shortname>Чикина А. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1986</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="1904a1a">
+<name>Куракин Валерий Вадимович</name>
+<shortname>Куракин В. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1996</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="22852af">
+<name>Гусев Сергей Михайлович</name>
+<shortname>Гусев С. М.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1993</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="264540e">
+<name>Солнышков Никита Дмитриевуич</name>
+<shortname>Солнышков Н. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2003</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4706a64">
+<name>Куликов Евгений Михайлович</name>
+<shortname>Куликов Е. М.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="64875d5">
+<name>Князев Константин Сергеевич</name>
+<shortname>Князев К. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1991</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="61486b5">
+<name>Овчинникова Ирина Владимировна</name>
+<shortname>Овчинникова И. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1988</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="6049ba2">
+<name>Шевчук Сергей Сергеевич</name>
+<shortname>Шевчук С. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1987</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="378c7da">
+<name>Александрова Ольга Владимировна</name>
+<shortname>Александрова О. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1988</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="560db81">
+<name>Епатко Сергей Владиславович</name>
+<shortname>Епатко С. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1990</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="180f266">
+<name>Муравьев Дмитрий Олегович</name>
+<shortname>Муравьев Д. О.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1992</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="7110318">
+<name>Мельничук Данил Владимирович</name>
+<shortname>Мельничук Д. В.</shortname>
+<country>Россия</country>
+<region>Вологодская обл.</region>
+<location>Сокол</location>
+<birthdate>2000</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="76102b9">
+<name>Диева Екатерина Дмитриевна</name>
+<shortname>Диева Е. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1999</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4c902d0">
+<name>Вдовин Евгений Александрович</name>
+<shortname>Вдовин Е. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1979</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="10d0b86">
+<name>Чигинов Николай Александрович</name>
+<shortname>Чигинов Н. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1978</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="45118fc">
+<name>Шевчук Ирина Михайловна</name>
+<shortname>Шевчук И. М.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="31522c9">
+<name>Князев Сергей Александрович</name>
+<shortname>Князев С. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1961</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="65130db">
+<name>Козлов Антон Владимирович</name>
+<shortname>Козлов А. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1974</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="37d570c">
+<name>Назаров Роман Иванович</name>
+<shortname>Назаров Р. И.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1977</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="17d5954">
+<name>Грудинин Максим Вячеславович</name>
+<shortname>Грудинин М. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1989</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="5615c49">
+<name>Шмелев Максим Владимирович</name>
+<shortname>Шмелев М. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2002</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4556e96">
+<name>Патокин Сергей Алексакндрович</name>
+<shortname>Патокин С. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1977</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="565695f">
+<name>Махов Марк Андреевич</name>
+<shortname>Махов М. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1992</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" id="7ad8791">
+<name>Бараказян Любовь Владимировна</name>
+<shortname>Бараказян Л. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>Ж</sex>
+<rating>98.00</rating>
+<deltaR>0.00</deltaR>
+<place>65091</place>
+<stats>1;0;2</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="7718df3">
+<name>Шаулина Дарья Сергеевна</name>
+<shortname>Шаулина Д. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1990</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="3f98e64">
+<name>Пескарев Андрей Николаевич</name>
+<shortname>Пескарев А. Н.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="35191a8">
+<name>Ихсанов Руслан Ришатович</name>
+<shortname>Ихсанов Р. Р.</shortname>
+<country>Россия</country>
+<region>Башкортостан</region>
+<location>Уфа</location>
+<birthdate>2001</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="3e9aaed">
+<name>Гробов Михаил Иванович</name>
+<shortname>Гробов М. И.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1986</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="599b0e2">
+<name>Голубева Ирина Анатольевна</name>
+<shortname>Голубева И. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1980</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4cddd6b">
+<name>Куликов Евгений Александрович</name>
+<shortname>Куликов Е. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1982</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="315dc85">
+<name>Стенин Дмитрий Денисович</name>
+<shortname>Стенин Д. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2004</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="455eac7">
+<name>Пантелеева Наталья Схатбиевна</name>
+<shortname>Пантелеева Н. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1978</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="791f34a">
+<name>Новожилов Евгений Леонидович</name>
+<shortname>Новожилов Е. Л.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1955</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="551f05c">
+<name>Кочубеев Виктор Николаевич</name>
+<shortname>Кочубеев В. Н.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1983</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="79df862">
+<name>Дорофеева Валерия Александровна</name>
+<shortname>Дорофеева В. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1984</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="75e1f10">
+<name>Борисов Сергей Евгеньевич</name>
+<shortname>Борисов С. Е.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1978</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="2122532">
+<name>Перепелица Ульянак Максимовна</name>
+<shortname>Перепелица У. М.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Рыбинск</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="25646df">
+<name>Ковшова Алина Артемовна</name>
+<shortname>Ковшова А. А.</shortname>
+<country>Россия</country>
+<region>Костромская обл.</region>
+<location>Кострома</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4da4343">
+<name>Бушуев Алексей Борисович</name>
+<shortname>Бушуев А. Б.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="22e49cf">
+<name>Куликова Ирина Александровна</name>
+<shortname>Куликова И. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1994</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="55664b1">
+<name>Войнова Марина Владимировна</name>
+<shortname>Войнова М. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1961</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="35a7715">
+<name>Каинбеков Арсен Джемалдинович</name>
+<shortname>Каинбеков А. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1987</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4b279f6">
+<name>Гришанова Наталья Николаевна</name>
+<shortname>Гришанова Н. Н.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1980</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="7a280db">
+<name>Корешкова Анна Геннадьевна</name>
+<shortname>Корешкова А. Г.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1983</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="2369669">
+<name>Чечулина Ольга Константиновна</name>
+<shortname>Чечулина О. К.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1979</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="236ad9c">
+<name>Лужкова Анастасия Алексеевна</name>
+<shortname>Лужкова А. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1993</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="55ebb69">
+<name>Ильюшкин Антон Юрьевич</name>
+<shortname>Ильюшкин А. Ю.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1986</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="702de49">
+<name>Шавалеева Варвара Олеговна</name>
+<shortname>Шавалеева В. О.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1994</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="3cef9ef">
+<name>Лобанова Галина Константиновна</name>
+<shortname>Лобанова Г. К.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1987</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="5fb05e7">
+<name>Шаталова Мария Александровна</name>
+<shortname>Шаталова М. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1987</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="3170aa6">
+<name>Горохов Александр Васильевич</name>
+<shortname>Горохов А. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>п. Нагорный, ЯМР</location>
+<birthdate>1963</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="7930844">
+<name>Затеев Владимир Всеволодович</name>
+<shortname>Затеев В. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1976</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="39b16ea">
+<name>Новожилова Светлана Валентиновна</name>
+<shortname>Новожилова С. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1962</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="18f1874">
+<name>Карпов Сергей Андреевич</name>
+<shortname>Карпов С. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2003</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="137282b">
+<name>Соколов Алексей Александрович</name>
+<shortname>Соколов А. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2003</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="41f2de9">
+<name>Виноградов Дмитрий Алексеевич</name>
+<shortname>Виноградов Д. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1986</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="67b2969">
+<name>Диделот Инга Владимировна</name>
+<shortname>Диделот И. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="137345d">
+<name>Гришанов Владимир Сергеевич</name>
+<shortname>Гришанов В. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1969</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="303408c">
+<name>Ярош Даниил Кириллович</name>
+<shortname>Ярош Д. К.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2004</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="51f41d5">
+<name>Холмова Наталья Юрьевна</name>
+<shortname>Холмова Н. Ю.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1974</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="19f4c42">
+<name>Плескач Елена Дмитриевна</name>
+<shortname>Плескач Е. Д.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2002</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="36b4d76">
+<name>Макарушкин Алексей Сергеевич</name>
+<shortname>Макарушкин А. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1983</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="25b57cf">
+<name>Шилов Василий Сергеевич</name>
+<shortname>Шилов В. С.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Большое Село</location>
+<birthdate>1985</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="1cb62e7">
+<name>Голубев Андрей Евгеньевич</name>
+<shortname>Голубев А. Е.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославуль</location>
+<birthdate>1993</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="2d76c93">
+<name>Филиппова Юлия Алексеевна</name>
+<shortname>Филиппова Ю. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1981</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="31b7370">
+<name>Ларионов Алексей Александрович</name>
+<shortname>Ларионов А. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1986</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="5db70b1">
+<name>Захаров Алексей Геннадьевич</name>
+<shortname>Захаров А. Г.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>2003</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4139124">
+<name>Мешалкина Елена Юрьевна</name>
+<shortname>Мешалкина Е. Ю.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1980</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="1d3aa92">
+<name>Новожилов Павел Леонидович</name>
+<shortname>Новожилов П. Л.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1962</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="737dadb">
+<name>Шаталов Дмитрий Вадимович</name>
+<shortname>Шаталов Д. В.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1987</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="1fbf0a5">
+<name>Серебряков Дмитрий Михайлович</name>
+<shortname>Серебряков Д. М.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1985</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="4cff68f">
+<name>Магина Валерия Алексеевна</name>
+<shortname>Магина В. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>ЯМР, д. Кузнечиха</location>
+<birthdate>2005</birthdate>
+<sex>Ж</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+<Player bModified="true" bNew="true" id="75bf2cb">
+<name>Темирханов Булат Арсланолиевич</name>
+<shortname>Темирханов Б. А.</shortname>
+<country>Россия</country>
+<region>Ярославская обл.</region>
+<location>Ярославль</location>
+<birthdate>1989</birthdate>
+<sex>М</sex>
+<rating>100.00</rating>
+<deltaR>0.00</deltaR>
+<place>0</place>
+<stats>0;0;0</stats>
+<stats2>0;0;0</stats2>
+</Player>
+</NewPlayers>
+<Tournament id="1eeb455">
+<Header>
+<tplID>0</tplID>
+<type>0</type>
+<sex>0</sex>
+<sport>1</sport>
+<date>16.04.2024</date>
+<name>г. Ярославль, студенческий турнир Ц1</name>
+<addr>г. Ярославль, ул. Гагарина, д. 7</addr>
+<organizer>Т.В. Малкова</organizer>
+<info/>
+<winner>Певцов Д. В.</winner>
+<image/>
+<numPlayers>21</numPlayers>
+<numTables>10</numTables>
+<coeff bFixed="false">0.2</coeff>
+<defineTablePlacesMethod>0</defineTablePlacesMethod>
+</Header>
+<Players>
+<Player Rating="142.49" coach="Тренер" deltaR="9.25" fee="Разряд" id="446f635" info2="Доп инфо" place="1" type="0"/>
+<Player Rating="111.86" coach="Тренер" deltaR="3.34" fee="Разряд" id="545702e" info2="Доп инфо" place="21" type="0"/>
+<Player Rating="98.98" coach="Тренер" deltaR="13.69" fee="Разряд" id="3d12b22" info2="Доп инфо" place="5" type="0"/>
+<Player Rating="93.73" coach="Тренер" deltaR="3.16" fee="Разряд" id="3d2ee9d" info2="Доп инфо" place="9" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="-2.47" fee="Разряд" id="50f7609" info2="Доп инфо" place="21" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="2.40" fee="Разряд" id="38f02b1" info2="Доп инфо" place="6" type="0"/>
+<Player Rating="100.00" coach="Малкова" deltaR="-2.03" fee="Разряд" id="7e99932" info2="Доп инфо" place="8" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="-8.08" fee="Разряд" id="6f6ef58" info2="Доп инфо" place="12" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="1.97" fee="Разряд" id="7bead56" info2="Доп инфо" place="7" type="0"/>
+<Player Rating="98.00" coach="Тренер" deltaR="8.66" fee="Разряд" id="5a428f2" info2="Доп инфо" place="2" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="1.00" fee="Разряд" id="121e9b6" info2="Доп инфо" place="21" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="8.36" fee="Разряд" id="205c196" info2="Доп инфо" place="3" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="-5.99" fee="Разряд" id="635d796" info2="Доп инфо" place="16" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="-0.60" fee="Разряд" id="465a90d" info2="Доп инфо" place="4" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="0.94" fee="Разряд" id="58fd52e" info2="Доп инфо" place="11" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="6.94" fee="Разряд" id="52f14c6" info2="Доп инфо" place="10" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="6.00" fee="Разряд" id="353c3ac" info2="Доп инфо" place="21" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="-1.00" fee="Разряд" id="6f1df0f" info2="Доп инфо" place="21" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="3.01" fee="Разряд" id="5951978" info2="Доп инфо" place="14" type="0"/>
+<Player Rating="101.00" coach="Тренер" deltaR="5.94" fee="Разряд" id="475f0c2" info2="Доп инфо" place="13" type="0"/>
+<Player Rating="100.00" coach="Тренер" deltaR="0.01" fee="Разряд" id="299581e" info2="Доп инфо" place="15" type="0"/>
+</Players>
+<Stages>
+<Stage name="[A]">
+<type>0</type>
+<gridT>2</gridT>
+<gridS>0</gridS>
+<gridMixN>8</gridMixN>
+<seed>1</seed>
+<GName>Группа</GName>
+<bNetting>true</bNetting>
+<b3rdPlace>false</b3rdPlace>
+<bRestFinal2>false</bRestFinal2>
+<bGrSeed>false</bGrSeed>
+<SepsList/>
+<Players>
+<Player grNum="1" id="446f635"/>
+<Player grNum="1" id="7e99932"/>
+<Player grNum="1" id="635d796"/>
+<Player grNum="2" id="465a90d"/>
+<Player grNum="2" id="6f6ef58"/>
+<Player grNum="2" id="545702e"/>
+<Player grNum="3" id="3d12b22"/>
+<Player grNum="3" id="7bead56"/>
+<Player grNum="3" id="58fd52e"/>
+<Player grNum="4" id="52f14c6"/>
+<Player grNum="4" id="5a428f2"/>
+<Player grNum="4" id="3d2ee9d"/>
+<Player grNum="5" id="50f7609"/>
+<Player grNum="5" id="121e9b6"/>
+<Player grNum="5" id="353c3ac"/>
+<Player grNum="6" id="6f1df0f"/>
+<Player grNum="6" id="205c196"/>
+<Player grNum="6" id="38f02b1"/>
+</Players>
+<Groups>
+<Group name="Группа-1">
+<type>0</type>
+<Players>
+<Player id="446f635"/>
+<Player id="545702e"/>
+<Player id="3d12b22"/>
+<Player id="3d2ee9d"/>
+<Player id="50f7609"/>
+<Player id="38f02b1"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="5.75" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,2;11,1</detail>
+</Player>
+<Player deltaR="-2.88" id="50f7609">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="8.19" id="545702e">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,6;11,6</detail>
+</Player>
+<Player deltaR="-4.09" id="3d2ee9d">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>0</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="10.10" id="3d12b22">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,4;11,2</detail>
+</Player>
+<Player deltaR="-5.05" id="38f02b1">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="5.12" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,4;11,7</detail>
+</Player>
+<Player deltaR="-2.56" id="3d2ee9d">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="8.81" id="545702e">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,6;11,2</detail>
+</Player>
+<Player deltaR="-4.41" id="38f02b1">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="10.10" id="3d12b22">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,3;11,3</detail>
+</Player>
+<Player deltaR="-5.05" id="50f7609">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>7</gameN>
+<round>2</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="5.65" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,4;12,10</detail>
+</Player>
+<Player deltaR="-2.82" id="3d12b22">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>8</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="8.81" id="545702e">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>8,11;11,6;11,6</detail>
+</Player>
+<Player deltaR="-4.41" id="50f7609">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>9</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-4.69" id="3d2ee9d">
+<bWin>false</bWin>
+<setWL>1:2</setWL>
+<detail>7,11;11,5;12,14</detail>
+</Player>
+<Player deltaR="9.37" id="38f02b1">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>10</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="5.75" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,3;11,2</detail>
+</Player>
+<Player deltaR="-2.88" id="38f02b1">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>11</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.64" id="545702e">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>6,11;8,11</detail>
+</Player>
+<Player deltaR="11.29" id="3d12b22">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>12</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="3d2ee9d">
+<bWin>true</bWin>
+<setWL>3:0</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="50f7609">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>13</gameN>
+<round>4</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="6.94" id="446f635">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>11,6;10,12;11,8</detail>
+</Player>
+<Player deltaR="-3.47" id="545702e">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>14</gameN>
+<round>4</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="9.48" id="3d12b22">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,3;11,3</detail>
+</Player>
+<Player deltaR="-4.74" id="3d2ee9d">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>15</gameN>
+<round>4</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="50f7609">
+<bWin>false</bWin>
+<setWL>0:3</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="38f02b1">
+<bWin>true</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+<Group name="Группа-2">
+<type>0</type>
+<Players>
+<Player id="7e99932"/>
+<Player id="6f6ef58"/>
+<Player id="7bead56"/>
+<Player id="5a428f2"/>
+<Player id="121e9b6"/>
+<Player id="205c196"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="10.00" id="7e99932">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>4,11;11,4;12,10</detail>
+</Player>
+<Player deltaR="-5.00" id="121e9b6">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>1</table>
+<Player deltaR="-5.10" id="6f6ef58">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>4,11;5,11</detail>
+</Player>
+<Player deltaR="10.20" id="5a428f2">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>0</round>
+<level>0</level>
+<table>4</table>
+<Player deltaR="-5.00" id="7bead56">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>7,11;9,11</detail>
+</Player>
+<Player deltaR="10.00" id="205c196">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="-5.10" id="7e99932">
+<bWin>false</bWin>
+<setWL>1:2</setWL>
+<detail>11,9;4,11;9,11</detail>
+</Player>
+<Player deltaR="10.20" id="5a428f2">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="6f6ef58">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>5,11;3,11</detail>
+</Player>
+<Player deltaR="10.00" id="205c196">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="7bead56">
+<bWin>true</bWin>
+<setWL>3:0</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="121e9b6">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>7</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="7e99932">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>5,11;4,11</detail>
+</Player>
+<Player deltaR="10.00" id="7bead56">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>8</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="6f6ef58">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>11,13;13,15</detail>
+</Player>
+<Player deltaR="10.00" id="121e9b6">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>9</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-4.90" id="5a428f2">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>6,11;8,11</detail>
+</Player>
+<Player deltaR="9.80" id="205c196">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>10</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="7e99932">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>9,11;7,11</detail>
+</Player>
+<Player deltaR="10.00" id="205c196">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>11</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="6f6ef58">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>5,11;7,11</detail>
+</Player>
+<Player deltaR="10.00" id="7bead56">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>12</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="5a428f2">
+<bWin>true</bWin>
+<setWL>3:0</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="121e9b6">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>13</gameN>
+<round>4</round>
+<level>0</level>
+<table>1</table>
+<Player deltaR="10.00" id="7e99932">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,5;11,4</detail>
+</Player>
+<Player deltaR="-5.00" id="6f6ef58">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>14</gameN>
+<round>4</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.10" id="7bead56">
+<bWin>false</bWin>
+<setWL>1:2</setWL>
+<detail>8,11;11,8;8,11</detail>
+</Player>
+<Player deltaR="10.20" id="5a428f2">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>15</gameN>
+<round>4</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="121e9b6">
+<bWin>false</bWin>
+<setWL>0:3</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="205c196">
+<bWin>true</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+<Group name="Группа-3">
+<type>0</type>
+<Players>
+<Player id="635d796"/>
+<Player id="465a90d"/>
+<Player id="58fd52e"/>
+<Player id="52f14c6"/>
+<Player id="353c3ac"/>
+<Player id="6f1df0f"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="635d796">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>4,11;1,11</detail>
+</Player>
+<Player deltaR="10.00" id="353c3ac">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="465a90d">
+<bWin>true</bWin>
+<setWL>3:0</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="52f14c6">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>0</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="58fd52e">
+<bWin>false</bWin>
+<setWL>0:3</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="6f1df0f">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="635d796">
+<bWin>true</bWin>
+<setWL>3:0</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="52f14c6">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>1</round>
+<level>0</level>
+<table>5</table>
+<Player deltaR="10.00" id="465a90d">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,8;11,9</detail>
+</Player>
+<Player deltaR="-5.00" id="6f1df0f">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>1</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="58fd52e">
+<bWin>false</bWin>
+<setWL>0:3</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="353c3ac">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>7</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="635d796">
+<bWin>true</bWin>
+<setWL>3:0</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="58fd52e">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>8</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="465a90d">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>9,11;9,11</detail>
+</Player>
+<Player deltaR="10.00" id="353c3ac">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>9</gameN>
+<round>2</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="10.00" id="52f14c6">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>11,6;9,11;11,4</detail>
+</Player>
+<Player deltaR="-5.00" id="6f1df0f">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>10</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="635d796">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>4,11;1,11</detail>
+</Player>
+<Player deltaR="10.00" id="6f1df0f">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>11</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="465a90d">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>8,11;11,13</detail>
+</Player>
+<Player deltaR="10.00" id="58fd52e">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>2</typeRes>
+<bNetting>false</bNetting>
+<gameN>12</gameN>
+<round>3</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="0.00" id="52f14c6">
+<bWin>false</bWin>
+<setWL>0:3</setWL>
+<detail/>
+</Player>
+<Player deltaR="0.00" id="353c3ac">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>13</gameN>
+<round>4</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="-5.00" id="635d796">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>4,11;2,11</detail>
+</Player>
+<Player deltaR="10.00" id="465a90d">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>14</gameN>
+<round>4</round>
+<level>0</level>
+<table>0</table>
+<Player deltaR="-5.00" id="58fd52e">
+<bWin>false</bWin>
+<setWL>1:2</setWL>
+<detail>11,6;11,13;10,12</detail>
+</Player>
+<Player deltaR="10.00" id="52f14c6">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>15</gameN>
+<round>4</round>
+<level>0</level>
+<table>4</table>
+<Player deltaR="10.00" id="353c3ac">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>4,11;11,6;11,5</detail>
+</Player>
+<Player deltaR="-5.00" id="6f1df0f">
+<bWin>false</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+</Groups>
+</Stage>
+<Stage name="[B]">
+<type>0</type>
+<gridT>2</gridT>
+<gridS>0</gridS>
+<gridMixN>8</gridMixN>
+<seed>2</seed>
+<GName>Финал</GName>
+<bNetting>false</bNetting>
+<b3rdPlace>false</b3rdPlace>
+<bRestFinal2>true</bRestFinal2>
+<bGrSeed>true</bGrSeed>
+<SepsList/>
+<Players>
+<Player grNum="1" id="446f635"/>
+<Player grNum="2" id="205c196"/>
+<Player grNum="3" id="465a90d"/>
+<Player grNum="4" id="5a428f2"/>
+<Player grNum="1" id="3d12b22"/>
+<Player grNum="2" id="7bead56"/>
+<Player grNum="3" id="7e99932"/>
+<Player grNum="4" id="38f02b1"/>
+<Player grNum="1" id="3d2ee9d"/>
+<Player grNum="2" id="6f6ef58"/>
+<Player grNum="3" id="52f14c6"/>
+<Player grNum="4" id="58fd52e"/>
+<Player grNum="1" id="5951978"/>
+<Player grNum="2" id="635d796"/>
+<Player grNum="3" id="475f0c2"/>
+<Player grNum="4" id="299581e"/>
+</Players>
+<Groups>
+<Group name="Финал-1">
+<type>0</type>
+<Players>
+<Player id="446f635"/>
+<Player id="205c196"/>
+<Player id="465a90d"/>
+<Player id="5a428f2"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>1</table>
+<Player deltaR="5.75" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,4;11,9</detail>
+</Player>
+<Player deltaR="-2.88" id="465a90d">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>5</table>
+<Player deltaR="-5.10" id="205c196">
+<bWin>false</bWin>
+<setWL>1:2</setWL>
+<detail>7,11;14,12;7,11</detail>
+</Player>
+<Player deltaR="10.20" id="5a428f2">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>1</round>
+<level>0</level>
+<table>5</table>
+<Player deltaR="5.55" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,2;11,2</detail>
+</Player>
+<Player deltaR="-2.78" id="5a428f2">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="10.00" id="205c196">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,8;11,8</detail>
+</Player>
+<Player deltaR="-5.00" id="465a90d">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>2</round>
+<level>0</level>
+<table>4</table>
+<Player deltaR="5.75" id="446f635">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,2;11,0</detail>
+</Player>
+<Player deltaR="-2.88" id="205c196">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>2</round>
+<level>0</level>
+<table>5</table>
+<Player deltaR="-5.10" id="465a90d">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>9,11;8,11</detail>
+</Player>
+<Player deltaR="10.20" id="5a428f2">
+<bWin>true</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+<Group name="Финал-2">
+<type>0</type>
+<Players>
+<Player id="3d12b22"/>
+<Player id="7bead56"/>
+<Player id="7e99932"/>
+<Player id="38f02b1"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="10.10" id="3d12b22">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,1;11,2</detail>
+</Player>
+<Player deltaR="-5.05" id="7e99932">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>6</table>
+<Player deltaR="-5.00" id="7bead56">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>5,11;7,11</detail>
+</Player>
+<Player deltaR="10.00" id="38f02b1">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>1</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="10.10" id="3d12b22">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,5;11,2</detail>
+</Player>
+<Player deltaR="-5.05" id="38f02b1">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>4</table>
+<Player deltaR="10.00" id="7bead56">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,6;13,11</detail>
+</Player>
+<Player deltaR="-5.00" id="7e99932">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>2</round>
+<level>0</level>
+<table>4</table>
+<Player deltaR="10.10" id="3d12b22">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,7;11,4</detail>
+</Player>
+<Player deltaR="-5.05" id="7bead56">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>2</round>
+<level>0</level>
+<table>1</table>
+<Player deltaR="-5.00" id="7e99932">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>4,11;3,11</detail>
+</Player>
+<Player deltaR="10.00" id="38f02b1">
+<bWin>true</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+<Group name="Финал-3">
+<type>0</type>
+<Players>
+<Player id="3d2ee9d"/>
+<Player id="6f6ef58"/>
+<Player id="52f14c6"/>
+<Player id="58fd52e"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="10.63" id="3d2ee9d">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,8;11,4</detail>
+</Player>
+<Player deltaR="-5.31" id="52f14c6">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>7</table>
+<Player deltaR="-5.00" id="6f6ef58">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>11,13;7,11</detail>
+</Player>
+<Player deltaR="10.00" id="58fd52e">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>1</round>
+<level>0</level>
+<table>6</table>
+<Player deltaR="10.63" id="3d2ee9d">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,8;11,4</detail>
+</Player>
+<Player deltaR="-5.31" id="58fd52e">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="-5.00" id="6f6ef58">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>3,11;2,11</detail>
+</Player>
+<Player deltaR="10.00" id="52f14c6">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>2</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="10.63" id="3d2ee9d">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,5;11,7</detail>
+</Player>
+<Player deltaR="-5.31" id="6f6ef58">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>2</round>
+<level>0</level>
+<table>3</table>
+<Player deltaR="10.00" id="52f14c6">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>4,11;13,11;13,11</detail>
+</Player>
+<Player deltaR="-5.00" id="58fd52e">
+<bWin>false</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+<Group name="Финал-4">
+<type>0</type>
+<Players>
+<Player id="5951978"/>
+<Player id="635d796"/>
+<Player id="475f0c2"/>
+<Player id="299581e"/>
+</Players>
+<Games>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>1</gameN>
+<round>0</round>
+<level>0</level>
+<table>4</table>
+<Player deltaR="-4.95" id="5951978">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>9,11;7,11</detail>
+</Player>
+<Player deltaR="9.90" id="475f0c2">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>2</gameN>
+<round>0</round>
+<level>0</level>
+<table>8</table>
+<Player deltaR="-5.00" id="635d796">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>6,11;5,11</detail>
+</Player>
+<Player deltaR="10.00" id="299581e">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>3</gameN>
+<round>1</round>
+<level>0</level>
+<table>1</table>
+<Player deltaR="10.00" id="5951978">
+<bWin>true</bWin>
+<setWL>2:1</setWL>
+<detail>9,11;11,5;11,7</detail>
+</Player>
+<Player deltaR="-5.00" id="299581e">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>4</gameN>
+<round>1</round>
+<level>0</level>
+<table>2</table>
+<Player deltaR="-4.95" id="635d796">
+<bWin>false</bWin>
+<setWL>0:2</setWL>
+<detail>2,11;2,11</detail>
+</Player>
+<Player deltaR="9.90" id="475f0c2">
+<bWin>true</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>5</gameN>
+<round>2</round>
+<level>0</level>
+<table>6</table>
+<Player deltaR="10.00" id="5951978">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,5;11,4</detail>
+</Player>
+<Player deltaR="-5.00" id="635d796">
+<bWin>false</bWin>
+</Player>
+</Game>
+<Game>
+<status>2</status>
+<typeRes>0</typeRes>
+<bNetting>false</bNetting>
+<gameN>6</gameN>
+<round>2</round>
+<level>0</level>
+<table>5</table>
+<Player deltaR="9.90" id="475f0c2">
+<bWin>true</bWin>
+<setWL>2:0</setWL>
+<detail>11,6;11,2</detail>
+</Player>
+<Player deltaR="-4.95" id="299581e">
+<bWin>false</bWin>
+</Player>
+</Game>
+</Games>
+</Group>
+</Groups>
+</Stage>
+</Stages>
+</Tournament>
+</DBExport>
